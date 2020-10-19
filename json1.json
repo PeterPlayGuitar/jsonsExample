@@ -1,0 +1,19 @@
+{
+    "category": {
+        "name": "3d Shooter",
+        "description": "Shoot in 3D",
+        "image": "games/3dShooter/3dShooterPreview.png",
+        "parentCategory": "Shooter"
+    },
+    "product": {
+        "name": "cookie",
+        "description": "tasty sweet baked dough",
+        "images": [
+            "cookies/cookie1.png",
+            "cookies/cookie2.png",
+            "cookies/cookie3.png"
+        ],
+        "category": "snacks",
+        "price": 13
+    }
+}
