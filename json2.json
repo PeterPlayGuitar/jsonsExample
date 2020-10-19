@@ -1,0 +1,44 @@
+{
+  "class": {
+    "name": "JSON",
+    "description": "You will learn JSON",
+    "required": true,
+    "tasks": [
+      {
+        "name": "Task 2",
+        "questions": [
+          {
+            "question": "JSON is Russian Technology?",
+            "correctAnswer": "no"
+          },
+          {
+            "question": "What is JSON used for?",
+            "correctAnswer": "JSON is used for describing data"
+          }
+        ]
+      },
+      {
+        "name": "Task 3",
+        "questions": [
+            {
+                "question": "JSON can be written in one row?",
+                "correctAnswer": "yes"
+            }
+        ]
+    }
+    ]
+  },
+  "task": {
+    "name": "Task 1",
+    "questions": [
+      {
+        "question": "JSON is XML?",
+        "correctAnswer": "no"
+      },
+      {
+        "question": "JSON is JavaScript Object Notation?",
+        "correctAnswer": "yes"
+      }
+    ]
+  }
+}
